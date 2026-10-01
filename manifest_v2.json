@@ -42,6 +42,16 @@
       "title": "QQ群领合成玉",
       "url": "https://qm.qq.com/q/KBffEzViU0",
       "icon": "SnapchatLogo"
+    },
+    {
+      "title": "实机演示(B站)",
+      "url": "https://www.bilibili.com/video/BV1ayYA61EFa",
+      "icon": "ThreadsLogo"
+    },
+    {
+      "title": "实机演示(抖音)",
+      "url": "https://v.douyin.com/pjNcVUrJFpM/",
+      "icon": "TiktokLogo"
     }
   ],
   "downloads": {
