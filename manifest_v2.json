@@ -5,6 +5,7 @@
     "name": "环上方舟",
     "description": "环上明日方舟,2.0全新升级!您的校园娱乐不二之选:\n一、抽卡：完整的寻访系统\n四档出率：★6 2% · ★5 8% · ★4 50% · ★3 40%，全场 50+ 名干员。\n十连保底：一轮十连内若前 9 抽都没出 ★5 及以上，最后一抽必定 ★5 及以上。\n六星软保底：连续 50 抽没出六星后，此后每抽六星出率额外 +2% 并持续叠加，直到必出；出货即清零。\n新人 5 折十连：3000 合成玉就能十连，开局就能爽抽。\n星级返还：★6 返 1500 · ★5 返 400 · ★4 返 120 · ★3 返 60 —— 抽完还有回收，白嫖也能一直抽下去。\n逐张翻牌结果页：单抽摊开一张大卡；十连点一下翻一张，5★ / 6★ 有彩色边框、辉光、全屏闪光与长振动，全部展示后列出本次收获（带 NEW / 潜能标记）。\n二、经济：不氪也能玩\n初始 6000 合成玉；十连 6000、单抽 600。\n每日补给：每天 3 次、每次 +3000 合成玉，点一下就领。\n今日礼品码：进交流群领当天 10 位码，手环端离线校验直接换合成玉 —— 每天都有新码，输满自动兑换。\n三、理智与派遣：手环上的放置玩法\n理智系统：上限 480、每 3 分钟恢复 1 点 —— 关掉应用也在涨，回来一开界面自动补给你。\n控制终端：页首一条淡蓝理智条，下面两条产线：\n\n打工:慢工出细活，省理智,每点理智 50 合成玉.\n战斗:用时约打工的 30%，收益来得快,每点理智 25 合成玉，每小时理智消耗高得多\n派遣干员：每队 2 名、只列已招募的，同一人不能占两个位子。开派时每名干员独立掷一次加成：★6 +2.5%~+10%，★5/★4/★3 按星级缩放（+1.56% / +1.45.5% / +1~4%），还有极稀有概率直接收益翻倍。\n\n时长档位：2 / 4 / 8 / 12 小时任选（战斗为更短的对应档位），想换随时换。\n\n提前收工：随时取消 —— 按已进行时长结算收益、退回未使用的理智；未超过一半时长不消耗当天队伍次数，还有二次确认防误触。\n\n每天有队伍额度，配合理智恢复规划「今天派几队、派打工还是战斗」。\n\n四、干员资料库\n干员图鉴：★6/★5/★4/★3 一键筛选，未获得的显示 ???（不泄露职业），已获得标注潜能与获得次数。\n招募记录：分页浏览（一页 20 条），最新在前，切页自动回第一行。\n抽卡统计：累计抽数、六星 / 十连保底进度、收集率、合成玉与折扣余量、最近抽卡星级分布。\n概率公示：出率与保底规则全部明牌。\n干员档案：分段展开、长文自动分页、下滑自动收起控件的纯净阅读。\n干员立绘：满屏查看、左右拖动看全图、精一 / 精二切换，双击隐藏整层 UI 专心看画。\n五、手感与细节\n336×480 原生排版：紧凑字号、圆角卡片、单手可点。\n长名字 / 长说明自动水平跑马灯滚动，不会读不全。\n卡片按钮按下渐暗回弹；危险操作（取消派遣等）二次确认 + 结算信息框告诉你扣了什么、拿了什么。\n顶栏 / 底栏遮罩、列表回收等按手表性能调过，每页可独立进退，不会把你甩到空页面。\n\n当前卡池-\"车辙与风的归所\"Pro池.\n六星限定干员:予愿安洁莉娜,珊比,斩业星熊 ,佩佩,纯烬艾雅法拉,百炼嘉维尔,假日威龙陈",
     "preview": [
+      "media/cover345.png",
       "media/xiaomi_band_pro-2026-09-30-13-13-19.png",
       "media/xiaomi_band_pro-2026-09-30-13-58-06.png",
       "media/xiaomi_band_pro-2026-09-30-13-40-22.png",
@@ -45,41 +46,79 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "2.0.2",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.3.rpk",
       "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "新增干员立绘查看"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
         }
       ]
     },
     "xmb9p": {
-      "version": "2.0.2",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.2.rpk",
+      "version": "2.0.3",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.3.rpk",
       "versionCode": 1,
       "updatelogs": [
         {
           "version": "1.0.0",
           "content": "新增干员立绘查看"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
         }
       ]
     },
     "xmrw5": {
-      "version": "2.0.2",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.2.rpk",
-      "versionCode": 1
+      "version": "2.0.3",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.3.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增干员立绘查看"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "2.0.2",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.2.rpk",
-      "versionCode": 1
+      "version": "2.0.3",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.3.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增干员立绘查看"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "2.0.2",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.2.rpk",
-      "versionCode": 1
+      "version": "2.0.3",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.2.0.3.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增干员立绘查看"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        }
+      ]
     }
   },
   "ext": {
