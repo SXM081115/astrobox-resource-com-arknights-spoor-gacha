@@ -57,9 +57,9 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.0.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.3.rpk",
-      "versionCode": 5,
+      "version": "3.0.6",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.6.rpk",
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "3.0.3",
@@ -70,15 +70,15 @@
           "content": "修复部分档案文案错误,优化统计页面UI"
         },
         {
-          "version": "3.0.3",
-          "content": ""
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
         }
       ]
     },
     "xmb9p": {
-      "version": "3.0.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.3.rpk",
-      "versionCode": 5,
+      "version": "3.0.6",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.6.rpk",
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "3.0.3",
@@ -89,15 +89,15 @@
           "content": "修复部分档案文案错误,优化统计页面UI"
         },
         {
-          "version": "3.0.3",
-          "content": ""
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
         }
       ]
     },
     "xmrw5": {
-      "version": "3.0.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.3.rpk",
-      "versionCode": 5,
+      "version": "3.0.6",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.6.rpk",
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "3.0.3",
@@ -108,15 +108,15 @@
           "content": "修复部分档案文案错误,优化统计页面UI"
         },
         {
-          "version": "3.0.3",
-          "content": ""
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "3.0.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.3.rpk",
-      "versionCode": 5,
+      "version": "3.0.6",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.6.rpk",
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "3.0.3",
@@ -127,15 +127,15 @@
           "content": "修复部分档案文案错误,优化统计页面UI"
         },
         {
-          "version": "3.0.3",
-          "content": ""
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
         }
       ]
     },
     "xmrw6": {
-      "version": "3.0.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.3.rpk",
-      "versionCode": 5,
+      "version": "3.0.6",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.6.rpk",
+      "versionCode": 8,
       "updatelogs": [
         {
           "version": "3.0.3",
@@ -146,8 +146,8 @@
           "content": "修复部分档案文案错误,优化统计页面UI"
         },
         {
-          "version": "3.0.3",
-          "content": ""
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
         }
       ]
     }
