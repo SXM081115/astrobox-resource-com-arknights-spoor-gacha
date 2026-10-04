@@ -57,10 +57,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.0.7",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.7.rpk",
-      "versionCode": 10,
+      "version": "3.0.8",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
         {
           "version": "3.0.7",
           "content": "更新开发者名单.\n优化游戏稳定性."
@@ -80,10 +84,14 @@
       ]
     },
     "xmb9p": {
-      "version": "3.0.7",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.7.rpk",
-      "versionCode": 10,
+      "version": "3.0.8",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
         {
           "version": "3.0.7",
           "content": "更新开发者名单.\n优化游戏稳定性."
@@ -103,13 +111,17 @@
       ]
     },
     "xmrw5": {
-      "version": "3.0.7",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.7.rpk",
-      "versionCode": 10,
+      "version": "3.0.8",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
           "version": "3.0.7",
-          "content": "更新开发者名单,\n优化游戏稳定性."
+          "content": "更新开发者名单.\n优化游戏稳定性."
         },
         {
           "version": "3.0.3",
@@ -126,13 +138,17 @@
       ]
     },
     "xmrw5xring": {
-      "version": "3.0.7",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.7.rpk",
-      "versionCode": 10,
+      "version": "3.0.8",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
+      "versionCode": 11,
       "updatelogs": [
         {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
           "version": "3.0.7",
-          "content": "更新开发者名单,\n优化游戏稳定性."
+          "content": "更新开发者名单.\n优化游戏稳定性."
         },
         {
           "version": "3.0.3",
@@ -149,10 +165,14 @@
       ]
     },
     "xmrw6": {
-      "version": "3.0.7",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.0.7.rpk",
-      "versionCode": 10,
+      "version": "3.0.8",
+      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
         {
           "version": "3.0.7",
           "content": "更新开发者名单.\n优化游戏稳定性."
