@@ -57,10 +57,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -88,10 +92,14 @@
       ]
     },
     "xmb9p": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -119,10 +127,14 @@
       ]
     },
     "xmrw5": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -150,10 +162,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -181,10 +197,14 @@
       ]
     },
     "xmrw6": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -212,10 +232,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -243,10 +267,14 @@
       ]
     },
     "xmws441": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -274,10 +302,14 @@
       ]
     },
     "xmws4": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -305,10 +337,14 @@
       ]
     },
     "xmws541": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
@@ -336,10 +372,14 @@
       ]
     },
     "xmws5": {
-      "version": "3.1.0",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
-      "versionCode": 12,
+      "version": "3.1.1",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.1.rpk",
+      "versionCode": 13,
       "updatelogs": [
+        {
+          "version": "3.1.1",
+          "content": "修复Pro与Redmi Watch系列抽卡时干员名称错位的问题"
+        },
         {
           "version": "3.1.0",
           "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
