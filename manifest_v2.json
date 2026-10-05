@@ -57,10 +57,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.0.8",
-      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
-      "versionCode": 11,
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
       "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
         {
           "version": "3.0.8",
           "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
@@ -84,10 +88,14 @@
       ]
     },
     "xmb9p": {
-      "version": "3.0.8",
-      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
-      "versionCode": 11,
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
       "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
         {
           "version": "3.0.8",
           "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
@@ -111,10 +119,14 @@
       ]
     },
     "xmrw5": {
-      "version": "3.0.8",
-      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
-      "versionCode": 11,
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
       "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
         {
           "version": "3.0.8",
           "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
@@ -138,10 +150,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "3.0.8",
-      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
-      "versionCode": 11,
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
       "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
         {
           "version": "3.0.8",
           "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
@@ -165,10 +181,169 @@
       ]
     },
     "xmrw6": {
-      "version": "3.0.8",
-      "file_name": "downloads/com.arknights.spoor.gacha.debug.3.0.8.rpk",
-      "versionCode": 11,
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
       "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
+          "version": "3.0.7",
+          "content": "更新开发者名单.\n优化游戏稳定性."
+        },
+        {
+          "version": "3.0.3",
+          "content": "环上明日方舟 3.0 更新日志\n核心：自定义干员 —— 池子里有谁，你说了算。\n\n加谁都能加：手机装「环上方舟配置器」，从 PRTS 全量 460 位干员按中文名挑，一键下发到手环（默认包 53 位，装完即玩）\n逐档选：精一 / 精二独立勾选，每档可单开高清 1024；要不要档案也由你\n多套包：自己的池、给朋友的专属池，随时切换下发\n立绘：进页面整张装得下，40%~500% 缩放；高清才可放大（标题浅蓝）\n传输：进度 / 速度 / 剩余实时刷新，插件端没动静会写明；传完自动重启生效\n修复：下发偶尔卡住；高清立绘标题不变蓝。\n\n上手：手机装插件 → 手环开「更多 → 数据传输」→ 搜干员加入 → 点「下发到手环端」。"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        },
+        {
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
+      "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
+          "version": "3.0.7",
+          "content": "更新开发者名单.\n优化游戏稳定性."
+        },
+        {
+          "version": "3.0.3",
+          "content": "环上明日方舟 3.0 更新日志\n核心：自定义干员 —— 池子里有谁，你说了算。\n\n加谁都能加：手机装「环上方舟配置器」，从 PRTS 全量 460 位干员按中文名挑，一键下发到手环（默认包 53 位，装完即玩）\n逐档选：精一 / 精二独立勾选，每档可单开高清 1024；要不要档案也由你\n多套包：自己的池、给朋友的专属池，随时切换下发\n立绘：进页面整张装得下，40%~500% 缩放；高清才可放大（标题浅蓝）\n传输：进度 / 速度 / 剩余实时刷新，插件端没动静会写明；传完自动重启生效\n修复：下发偶尔卡住；高清立绘标题不变蓝。\n\n上手：手机装插件 → 手环开「更多 → 数据传输」→ 搜干员加入 → 点「下发到手环端」。"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        },
+        {
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
+      "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
+          "version": "3.0.7",
+          "content": "更新开发者名单.\n优化游戏稳定性."
+        },
+        {
+          "version": "3.0.3",
+          "content": "环上明日方舟 3.0 更新日志\n核心：自定义干员 —— 池子里有谁，你说了算。\n\n加谁都能加：手机装「环上方舟配置器」，从 PRTS 全量 460 位干员按中文名挑，一键下发到手环（默认包 53 位，装完即玩）\n逐档选：精一 / 精二独立勾选，每档可单开高清 1024；要不要档案也由你\n多套包：自己的池、给朋友的专属池，随时切换下发\n立绘：进页面整张装得下，40%~500% 缩放；高清才可放大（标题浅蓝）\n传输：进度 / 速度 / 剩余实时刷新，插件端没动静会写明；传完自动重启生效\n修复：下发偶尔卡住；高清立绘标题不变蓝。\n\n上手：手机装插件 → 手环开「更多 → 数据传输」→ 搜干员加入 → 点「下发到手环端」。"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        },
+        {
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
+      "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
+          "version": "3.0.7",
+          "content": "更新开发者名单.\n优化游戏稳定性."
+        },
+        {
+          "version": "3.0.3",
+          "content": "环上明日方舟 3.0 更新日志\n核心：自定义干员 —— 池子里有谁，你说了算。\n\n加谁都能加：手机装「环上方舟配置器」，从 PRTS 全量 460 位干员按中文名挑，一键下发到手环（默认包 53 位，装完即玩）\n逐档选：精一 / 精二独立勾选，每档可单开高清 1024；要不要档案也由你\n多套包：自己的池、给朋友的专属池，随时切换下发\n立绘：进页面整张装得下，40%~500% 缩放；高清才可放大（标题浅蓝）\n传输：进度 / 速度 / 剩余实时刷新，插件端没动静会写明；传完自动重启生效\n修复：下发偶尔卡住；高清立绘标题不变蓝。\n\n上手：手机装插件 → 手环开「更多 → 数据传输」→ 搜干员加入 → 点「下发到手环端」。"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        },
+        {
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
+      "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
+        {
+          "version": "3.0.8",
+          "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
+        },
+        {
+          "version": "3.0.7",
+          "content": "更新开发者名单.\n优化游戏稳定性."
+        },
+        {
+          "version": "3.0.3",
+          "content": "环上明日方舟 3.0 更新日志\n核心：自定义干员 —— 池子里有谁，你说了算。\n\n加谁都能加：手机装「环上方舟配置器」，从 PRTS 全量 460 位干员按中文名挑，一键下发到手环（默认包 53 位，装完即玩）\n逐档选：精一 / 精二独立勾选，每档可单开高清 1024；要不要档案也由你\n多套包：自己的池、给朋友的专属池，随时切换下发\n立绘：进页面整张装得下，40%~500% 缩放；高清才可放大（标题浅蓝）\n传输：进度 / 速度 / 剩余实时刷新，插件端没动静会写明；传完自动重启生效\n修复：下发偶尔卡住；高清立绘标题不变蓝。\n\n上手：手机装插件 → 手环开「更多 → 数据传输」→ 搜干员加入 → 点「下发到手环端」。"
+        },
+        {
+          "version": "2.0.3",
+          "content": "修复部分档案文案错误,优化统计页面UI"
+        },
+        {
+          "version": "3.0.6",
+          "content": "修复恶性BUG,提升稳定性"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "3.1.0",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.0.rpk",
+      "versionCode": 12,
+      "updatelogs": [
+        {
+          "version": "3.1.0",
+          "content": "适配Xiaomi Watch S4,S5系列\n优化首页布局\n修复已知BUG\n优化游戏稳定性"
+        },
         {
           "version": "3.0.8",
           "content": "将六星寻访返还由1500→600\n优化游戏UI\n修复已知BUG\n增强程序稳定性"
