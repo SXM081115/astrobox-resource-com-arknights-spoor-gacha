@@ -57,10 +57,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -100,10 +104,14 @@
       ]
     },
     "xmb9p": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -143,10 +151,14 @@
       ]
     },
     "xmrw5": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -186,10 +198,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -229,10 +245,14 @@
       ]
     },
     "xmrw6": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -272,10 +292,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -315,10 +339,14 @@
       ]
     },
     "xmws441": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -358,10 +386,14 @@
       ]
     },
     "xmws4": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -401,10 +433,14 @@
       ]
     },
     "xmws541": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
@@ -444,10 +480,14 @@
       ]
     },
     "xmws5": {
-      "version": "3.1.3",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.3.rpk",
-      "versionCode": 16,
+      "version": "3.1.31",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.31.rpk",
+      "versionCode": 17,
       "updatelogs": [
+        {
+          "version": "3.1.31",
+          "content": "修正首页文案,为下个基建版本铺垫"
+        },
         {
           "version": "3.1.3",
           "content": "数值微调,每日补给9000->12000\n祝各位博士玩的开心!"
