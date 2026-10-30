@@ -22,7 +22,11 @@
       "media/xiaomi_band_pro-2026-09-30-13-40-47.png",
       "media/xiaomi_band_pro-2026-09-30-13-40-58.png",
       "media/xiaomi_band_pro-2026-09-30-13-41-08.png",
-      "media/xiaomi_band_pro-2026-09-30-13-41-22.png"
+      "media/xiaomi_band_pro-2026-09-30-13-41-22.png",
+      "media/xiaomi_band_pro-2026-10-31-01-39-07.png",
+      "media/xiaomi_band_pro-2026-10-31-01-39-23.png",
+      "media/xiaomi_band_pro-2026-10-31-01-39-29.png",
+      "media/xiaomi_band_pro-2026-10-31-01-39-34.png"
     ],
     "icon": "media/BandArk.png",
     "cover": "media/cover345.png",
@@ -57,10 +61,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -108,10 +116,14 @@
       ]
     },
     "xmb9p": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -159,10 +171,14 @@
       ]
     },
     "xmrw5": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -210,10 +226,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -261,10 +281,14 @@
       ]
     },
     "xmrw6": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -312,10 +336,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -363,10 +391,14 @@
       ]
     },
     "xmws441": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -414,10 +446,14 @@
       ]
     },
     "xmws4": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -465,10 +501,14 @@
       ]
     },
     "xmws541": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
@@ -516,10 +556,14 @@
       ]
     },
     "xmws5": {
-      "version": "3.1.32",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.32.rpk",
-      "versionCode": 18,
+      "version": "3.1.40",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.3.1.40.rpk",
+      "versionCode": 20,
       "updatelogs": [
+        {
+          "version": "3.1.40",
+          "content": "初步更新基建系统"
+        },
         {
           "version": "3.1.32",
           "content": "修正保全派驻文案,为下个基建版本预热"
