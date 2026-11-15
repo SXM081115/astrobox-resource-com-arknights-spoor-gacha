@@ -62,10 +62,14 @@
   ],
   "downloads": {
     "xmb10p": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -121,10 +125,14 @@
       ]
     },
     "xmb9p": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -180,10 +188,14 @@
       ]
     },
     "xmrw5": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -239,10 +251,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -298,10 +314,14 @@
       ]
     },
     "xmrw6": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -357,10 +377,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -416,10 +440,14 @@
       ]
     },
     "xmws441": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -475,10 +503,14 @@
       ]
     },
     "xmws4": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -534,10 +566,14 @@
       ]
     },
     "xmws541": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
@@ -593,10 +629,14 @@
       ]
     },
     "xmws5": {
-      "version": "4.0.0-RC1",
-      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC1.rpk",
-      "versionCode": 21,
+      "version": "4.0.0-RC2",
+      "file_name": "downloads/com.arknights.spoor.gacha.release.4.0.0-RC2.rpk",
+      "versionCode": 22,
       "updatelogs": [
+        {
+          "version": "4.0.0-RC2",
+          "content": "1.优化软件性能\n2.适配一星干员与二星干员"
+        },
         {
           "version": "4.0.0-RC1",
           "content": "新增\n1. 在 3.1.40 初步基建系统基础上，补全建造、贸易、宿舍与排班闭环\n2. 物资调度中心与独立仓库，商品支持数量调整\n3. 宿舍与三班次排班，精力耗尽自动入住\n4. 至纯源石大乐透、奖池页与十连保底\n5. 特训卡改为龙骨 + 合成玉兑换\n6. 独立赞助页与更新日志\n7. 理智液使用页，理智可溢出至 999\n\n修复\n1. 修复概率页说明文字被裁切的问题\n2. 修复圆屏返回键与部分按钮越界的问题\n3. 修复购买页材料足够时确认按钮仍置灰的问题\n\n优化\n1. 优化物资调度中心字号与信息密度\n2. 分离商品上限与材料不足提示\n3. 统一全页面文案，优化性能\n\n备注\n该版本为 RC 测试版，如有问题欢迎反馈，QQ 群：1125113087"
